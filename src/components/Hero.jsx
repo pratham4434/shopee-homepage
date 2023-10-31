@@ -10,11 +10,11 @@ const Hero = () => {
                         <div class="flex items-center justify-center mb-4 lg:justify-normal">
 
 
-                            <h4 class="ml-2 text-sm font-bold tracking-widest text-primary uppercase">🚀 Explore Shopee </h4>
+                            <h4 class="ml-2 text-sm font-bold tracking-widest text-primary uppercase">🚀 Empower Your Journey </h4>
                         </div>
-                        <h1 class="mb-8 text-4xl font-extrabold leading-tight lg:text-6xl text-dark-grey-900">Elevate your buying experience with Shopee</h1>
+                        <h1 class="mb-8 text-4xl font-extrabold leading-tight lg:text-6xl text-dark-grey-900">Unlocking Knowledge, Fueling Careers</h1>
                         <p class="mb-6 text-base font-normal leading-7 lg:w-3/4 text-grey-900">
-                            orem ipsum dolor sit amet, consectetur adipiscing elit. Ut velit quam, sagittis eget sollicitudin vel, viverra vitae tortor. 
+                        Welcome to our one-stop destination for books, journals, and employment news. Explore a wide array of resources from the Directorate of Publications Division and stay informed about exciting job prospects. Your path to knowledge and career growth begins here.
                         </p>
                         <div class="flex flex-col items-center gap-4 lg:flex-row">
                             <button class="flex items-center py-4 text-sm font-bold text-white px-7 bg-black hover:bg-purple-blue-600 focus:ring-4 focus:ring-purple-blue-100 transition duration-300 rounded-xl">Get started now</button>
